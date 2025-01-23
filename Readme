@@ -1,0 +1,27 @@
+# Technical Challenge Solutions
+
+This repository contains Python solutions for various technical challenges.
+
+## Challenges Overview
+
+### 1. Number Summation
+- Calculates the sum of the first 13 numbers using a while loop
+
+### 2. Fibonacci Sequence Checker
+- Verifies if a given number belongs to the Fibonacci sequence
+
+### 3. Revenue Analysis
+- Reads revenue data from a JSON file
+- Calculates minimum and maximum revenue values
+- Determines the number of days with above-average revenue
+
+### 4. State Revenue Distribution
+- Calculates percentage distribution of revenue across Brazilian states
+- Includes SP, RJ, MG, ES, and Others
+
+### 5. String Reversal
+- Implements a function to reverse a string without using built-in reverse methods
+
+## Usage
+
+Run the script using Python:
